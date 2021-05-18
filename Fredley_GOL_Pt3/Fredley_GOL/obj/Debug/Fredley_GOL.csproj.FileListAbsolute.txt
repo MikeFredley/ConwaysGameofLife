@@ -1,0 +1,50 @@
+D:\School\Sem2\CIS244\Fredley_GOL\Fredley_GOL\obj\Debug\Fredley_GOL.csprojResolveAssemblyReference.cache
+D:\School\Sem2\CIS244\Fredley_GOL\Fredley_GOL\obj\Debug\Fredley_GOL.GOLBoard.resources
+D:\School\Sem2\CIS244\Fredley_GOL\Fredley_GOL\obj\Debug\Fredley_GOL.Properties.Resources.resources
+D:\School\Sem2\CIS244\Fredley_GOL\Fredley_GOL\obj\Debug\Fredley_GOL.csproj.GenerateResource.Cache
+D:\School\Sem2\CIS244\Fredley_GOL\Fredley_GOL\obj\Debug\Fredley_GOL.csproj.CoreCompileInputs.cache
+D:\School\Sem2\CIS244\Fredley_GOL\Fredley_GOL\bin\Debug\Fredley_GOL.exe.config
+D:\School\Sem2\CIS244\Fredley_GOL\Fredley_GOL\bin\Debug\Fredley_GOL.exe
+D:\School\Sem2\CIS244\Fredley_GOL\Fredley_GOL\bin\Debug\Fredley_GOL.pdb
+D:\School\Sem2\CIS244\Fredley_GOL\Fredley_GOL\obj\Debug\Fredley_GOL.exe
+D:\School\Sem2\CIS244\Fredley_GOL\Fredley_GOL\obj\Debug\Fredley_GOL.pdb
+D:\School\Sem2\CIS244\Fredley_GOL_Pt2\Fredley_GOL\bin\Debug\Fredley_GOL.exe.config
+D:\School\Sem2\CIS244\Fredley_GOL_Pt2\Fredley_GOL\bin\Debug\Fredley_GOL.exe
+D:\School\Sem2\CIS244\Fredley_GOL_Pt2\Fredley_GOL\bin\Debug\Fredley_GOL.pdb
+D:\School\Sem2\CIS244\Fredley_GOL_Pt2\Fredley_GOL\obj\Debug\Fredley_GOL.csprojResolveAssemblyReference.cache
+D:\School\Sem2\CIS244\Fredley_GOL_Pt2\Fredley_GOL\obj\Debug\Fredley_GOL.GOLBoard.resources
+D:\School\Sem2\CIS244\Fredley_GOL_Pt2\Fredley_GOL\obj\Debug\Fredley_GOL.Properties.Resources.resources
+D:\School\Sem2\CIS244\Fredley_GOL_Pt2\Fredley_GOL\obj\Debug\Fredley_GOL.csproj.GenerateResource.Cache
+D:\School\Sem2\CIS244\Fredley_GOL_Pt2\Fredley_GOL\obj\Debug\Fredley_GOL.csproj.CoreCompileInputs.cache
+D:\School\Sem2\CIS244\Fredley_GOL_Pt2\Fredley_GOL\obj\Debug\Fredley_GOL.exe
+D:\School\Sem2\CIS244\Fredley_GOL_Pt2\Fredley_GOL\obj\Debug\Fredley_GOL.pdb
+D:\School\Sem2\CIS244\Fredley_GOL_Pt3 - Good\Fredley_GOL\bin\Debug\Fredley_GOL.exe.config
+D:\School\Sem2\CIS244\Fredley_GOL_Pt3 - Good\Fredley_GOL\bin\Debug\Fredley_GOL.exe
+D:\School\Sem2\CIS244\Fredley_GOL_Pt3 - Good\Fredley_GOL\bin\Debug\Fredley_GOL.pdb
+D:\School\Sem2\CIS244\Fredley_GOL_Pt3 - Good\Fredley_GOL\obj\Debug\Fredley_GOL.csprojResolveAssemblyReference.cache
+D:\School\Sem2\CIS244\Fredley_GOL_Pt3 - Good\Fredley_GOL\obj\Debug\Fredley_GOL.GOLBoard.resources
+D:\School\Sem2\CIS244\Fredley_GOL_Pt3 - Good\Fredley_GOL\obj\Debug\Fredley_GOL.Properties.Resources.resources
+D:\School\Sem2\CIS244\Fredley_GOL_Pt3 - Good\Fredley_GOL\obj\Debug\Fredley_GOL.csproj.GenerateResource.Cache
+D:\School\Sem2\CIS244\Fredley_GOL_Pt3 - Good\Fredley_GOL\obj\Debug\Fredley_GOL.csproj.CoreCompileInputs.cache
+D:\School\Sem2\CIS244\Fredley_GOL_Pt3 - Good\Fredley_GOL\obj\Debug\Fredley_GOL.exe
+D:\School\Sem2\CIS244\Fredley_GOL_Pt3 - Good\Fredley_GOL\obj\Debug\Fredley_GOL.pdb
+D:\School\Sem2\CIS244\Fredley_GOL_Pt3\Fredley_GOL\bin\Debug\Fredley_GOL.exe.config
+D:\School\Sem2\CIS244\Fredley_GOL_Pt3\Fredley_GOL\bin\Debug\Fredley_GOL.exe
+D:\School\Sem2\CIS244\Fredley_GOL_Pt3\Fredley_GOL\bin\Debug\Fredley_GOL.pdb
+D:\School\Sem2\CIS244\Fredley_GOL_Pt3\Fredley_GOL\obj\Debug\Fredley_GOL.csprojResolveAssemblyReference.cache
+D:\School\Sem2\CIS244\Fredley_GOL_Pt3\Fredley_GOL\obj\Debug\Fredley_GOL.GOLBoard.resources
+D:\School\Sem2\CIS244\Fredley_GOL_Pt3\Fredley_GOL\obj\Debug\Fredley_GOL.Properties.Resources.resources
+D:\School\Sem2\CIS244\Fredley_GOL_Pt3\Fredley_GOL\obj\Debug\Fredley_GOL.csproj.GenerateResource.Cache
+D:\School\Sem2\CIS244\Fredley_GOL_Pt3\Fredley_GOL\obj\Debug\Fredley_GOL.csproj.CoreCompileInputs.cache
+D:\School\Sem2\CIS244\Fredley_GOL_Pt3\Fredley_GOL\obj\Debug\Fredley_GOL.exe
+D:\School\Sem2\CIS244\Fredley_GOL_Pt3\Fredley_GOL\obj\Debug\Fredley_GOL.pdb
+F:\School\Y1\Sem2\CIS244\Fredley_GOL_Pt3\Fredley_GOL\bin\Debug\Fredley_GOL.exe.config
+F:\School\Y1\Sem2\CIS244\Fredley_GOL_Pt3\Fredley_GOL\bin\Debug\Fredley_GOL.exe
+F:\School\Y1\Sem2\CIS244\Fredley_GOL_Pt3\Fredley_GOL\bin\Debug\Fredley_GOL.pdb
+F:\School\Y1\Sem2\CIS244\Fredley_GOL_Pt3\Fredley_GOL\obj\Debug\Fredley_GOL.csprojAssemblyReference.cache
+F:\School\Y1\Sem2\CIS244\Fredley_GOL_Pt3\Fredley_GOL\obj\Debug\Fredley_GOL.GOLBoard.resources
+F:\School\Y1\Sem2\CIS244\Fredley_GOL_Pt3\Fredley_GOL\obj\Debug\Fredley_GOL.Properties.Resources.resources
+F:\School\Y1\Sem2\CIS244\Fredley_GOL_Pt3\Fredley_GOL\obj\Debug\Fredley_GOL.csproj.GenerateResource.cache
+F:\School\Y1\Sem2\CIS244\Fredley_GOL_Pt3\Fredley_GOL\obj\Debug\Fredley_GOL.csproj.CoreCompileInputs.cache
+F:\School\Y1\Sem2\CIS244\Fredley_GOL_Pt3\Fredley_GOL\obj\Debug\Fredley_GOL.exe
+F:\School\Y1\Sem2\CIS244\Fredley_GOL_Pt3\Fredley_GOL\obj\Debug\Fredley_GOL.pdb
